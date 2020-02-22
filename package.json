@@ -1,0 +1,12 @@
+{
+  "name": "action_test",
+  "version": "0.8.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "sh test.sh"
+  },
+  "keywords": [],
+  "author": "mganeko",
+  "license": "MIT"
+}
