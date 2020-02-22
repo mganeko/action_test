@@ -14,8 +14,8 @@ for (let i = 2; i < process.argv.length; i++) {
     process.exit(1);
   }
 
-  sum += arg; // error
-  //sum += Number(arg); // OK
+  //sum += arg; // error
+  sum += Number(arg); // OK
 }
 console.log('%d', sum);
 
